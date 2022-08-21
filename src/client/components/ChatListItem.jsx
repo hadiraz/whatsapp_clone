@@ -45,7 +45,6 @@ function ChatListItem({roomId,roomData}) {
                     </div>
                     <div className="app__sidebar-chatlist-item-right d-flex flex-column h-100 justify-content-center align-items-end">
                         <p className="app__sidebar-chatlist-item-right-time">
-                            11:33 pm
                         </p>
                         {/* <p className="app__sidebar-chatlist-item-right-counter m-0">1</p> */}
                     </div>
